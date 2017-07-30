@@ -1,0 +1,15 @@
+# Common files except under Common
+/urus/source/docs/common-*
+
+# Any build directory
+*/build/*
+.buildinfo
+
+# Logs
+*.log
+
+# Build outputs
+
+*.pyc
+
+src
