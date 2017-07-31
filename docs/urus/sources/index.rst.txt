@@ -30,7 +30,7 @@ Urus Ecosystem has the next sub-projects:
     
     c) `Urus Kernel <https://urusteam.github.io/docs/kernel/>`__
     
-    d) `Urus Studio IDE <https://urusteam.github.io/docs/urusstdio/>`__
+    d) `Urus Studio IDE <https://urusteam.github.io/docs/urusstudio/>`__
 
 Urus use the `APM API <https://github.com/ArduPilot/ardupilot/tree/master/libraries>`__ and HAL to maximize the use in robotics world. With URUS you can make an automated home control (DOMOTIC systems), work like a LEGO mindstorm, profesional and industrial use like a PLC. 
 
