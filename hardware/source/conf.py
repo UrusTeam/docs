@@ -38,7 +38,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
-    'sphinx.ext.pngmath',
+    'sphinx.ext.imgmath',
     'sphinx.ext.ifconfig',
     'sphinxcontrib.youtube', #For youtube embedding
     'sphinxtogithub',
@@ -145,7 +145,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # "<project> v<release> documentation".
 #html_title = None
 
-# A shorter title for the navigation bar.  
+# A shorter title for the navigation bar.
 # Default is the same as html_title.
 # DO NOT CHANGE. This is used by theme in "Edit on Github" links
 html_short_title = 'Urus System'
